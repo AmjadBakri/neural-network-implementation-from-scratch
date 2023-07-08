@@ -5,8 +5,8 @@ using Python and NumPy, trained on the heart disease dataset and comapare it wit
 #Requirements
 To run the code in this repository, you will need the following:
 
-Python 3.x
-NumPy
-Pandas
-Matplotlib
-tensorflow
+-Python 3.x
+-NumPy
+-Pandas
+-Matplotlib
+-tensorflow
